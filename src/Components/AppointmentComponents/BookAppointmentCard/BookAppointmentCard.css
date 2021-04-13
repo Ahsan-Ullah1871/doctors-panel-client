@@ -1,0 +1,15 @@
+.card {
+	padding: 20px;
+
+	margin-bottom: 20px;
+	height: 200px;
+}
+.special-text {
+	color: #1cc7c1;
+}
+
+.special-Btn {
+	background-image: linear-gradient(#18d2b4, #0fcfe6);
+	border: none;
+	border-color: none;
+}

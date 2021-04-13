@@ -1,0 +1,7 @@
+.navbarPart a {
+	color: rgb(245, 119, 61);
+	font-size: 20px;
+}
+.navbarPart a:hover {
+	text-decoration: none;
+}

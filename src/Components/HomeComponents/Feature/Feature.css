@@ -1,0 +1,9 @@
+.featureHeader h2 {
+	line-height: 1.8;
+}
+.featureHeader p {
+	line-height: 2;
+}
+.featureImage img {
+	width: 100%;
+}

@@ -1,0 +1,25 @@
+.appointmentPart {
+	height: 400px;
+	width: 100%;
+	position: relative;
+	background-image: url(../../../images/appoinmentBg.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-top: 100px;
+}
+.appointmentPart::before {
+	height: 400px;
+	content: " ";
+	position: absolute;
+	top: 0;
+	width: 100%;
+	right: 0;
+	background-color: #3a4256;
+	opacity: 0.9;
+}
+
+.appointmentImage img {
+	width: 100%;
+	transform: translateY(-125px);
+}

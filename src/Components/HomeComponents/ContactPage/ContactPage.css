@@ -1,0 +1,44 @@
+.contactSection {
+	height: 500px;
+	width: 100%;
+	position: relative;
+	background-color: #333c53;
+
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-top: 100px;
+}
+
+.contactSection {
+	color: aliceblue;
+	padding-top: 70px;
+}
+
+.contactForm {
+	width: 50%;
+	margin: 0 auto;
+	z-index: 1;
+}
+.contactForm input[type="email"] {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+
+	box-sizing: border-box;
+}
+.contactForm input[type="text"] {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+
+	box-sizing: border-box;
+}
+#messageBox {
+	height: 100px;
+}
+.submitBtn {
+	width: 30%;
+	padding: 10px 60px;
+	background-image: linear-gradient(#19d3ae, #11d0e0);
+}
