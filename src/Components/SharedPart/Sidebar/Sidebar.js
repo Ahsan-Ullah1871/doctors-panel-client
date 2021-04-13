@@ -35,7 +35,6 @@ const Sidebar = () => {
 		})
 			.then((res) => res.json())
 			.then((data) => {
-				console.log(data);
 				setIsDoctor(data);
 			});
 	}, [user]);
